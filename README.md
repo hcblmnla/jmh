@@ -1,4 +1,4 @@
-### Benchmark Summary
+## Benchmark Summary
 
 As a result, it is quite expected results according to the articles
 (yes, using the constructed lambda is faster than direct access)
